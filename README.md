@@ -5,10 +5,17 @@ This repository contains notebooks for various Computer Vision projects.
 
 
 
-## Notebooks
+## Notebooks - OpenCV
 
 - [Notebook 1 OpenCVbasicsofImageProcessing](./OpenCVbasicsofImageProcessing.ipynb): This notebook contains the basics of manipulating image with jupyter notebook .
-- [Notebook 2](link_to_notebook_2.ipynb): Description of the notebook content.
+- [Notebook 2 OpencvDrawing&Transformation_rotation_scaling](./OpencvDrawing&Transformation_rotation_scaling.ipynb): This notebook contains code for drawing lines,rect , polygon on images , Transformation, scaling and rotation, pyramid and cropping using opencv on images.
+- [Notebook 3](link_to_notebook_3.ipynb): Description of the notebook content.
+
+
+## Notebooks - DeepLearning Computer Vision Notebooks
+
+- [Notebook 1 OpenCVbasicsofImageProcessing](./OpenCVbasicsofImageProcessing.ipynb): This notebook contains the basics of manipulating image with jupyter notebook .
+- [Notebook 2 OpencvDrawing&Transformation_rotation_scaling](./OpencvDrawing&Transformation_rotation_scaling.ipynb): This notebook contains code for drawing lines,rect , polygon on images , Transformation, scaling and rotation, pyramid and cropping using opencv on images.
 - [Notebook 3](link_to_notebook_3.ipynb): Description of the notebook content.
 
 
